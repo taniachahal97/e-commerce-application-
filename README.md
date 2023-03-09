@@ -22,5 +22,4 @@ The following screenshot demonstrates the application functionality:
 ![e-commerce-2](Assets/image-4.png)
 
 # Link to Walk-through Video
-
-https://drive.google.com/file/d/1NnkMCXKiAlqGr6TRb78Ij3_9iZkjPHKo/view
+https://drive.google.com/file/d/1aH5bw8V9E-KI3jDn9M4Xfwg_XJCZS6Be/view
